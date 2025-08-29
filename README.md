@@ -2,7 +2,7 @@
 
 This repository allows you to spin up a demo app which has been instrumented with PostHog, and seed PostHog historic data and artifacts to provide a full-featured demo environment showcasing all features.
 
-![HogFlix Screenshot](./static/images/hogflix-screenshot.png)
+![HogFlix Screenshot](https://raw.githubusercontent.com/PostHog/posthog-demo-3000/4f81b4d2d0819ddaa18ccfc022e2b58c2b168590/static/images/hogflix-screenshot.png)
 
 ## Prerequisites
 
